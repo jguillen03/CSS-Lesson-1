@@ -1,0 +1,34 @@
+.center {
+    text-align: center;
+  }
+.red {
+    color: red;
+  }
+.blue {
+    color: blue;
+}
+.green {
+    color: green;
+}
+.multiple {
+    color: orange;
+    font-weight: bold;
+    font-size: large;
+}
+.bold {
+    font-weight: bold;
+}
+.font {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.big {
+    font-size: large;
+}
+.tiny {
+    font-size: small;
+}
+.border {
+    border-style: dashed;
+    color: pink;
+    width: 200px;
+}
